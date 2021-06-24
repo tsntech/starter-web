@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Bob Johnson	bj@gmail.com	aldkfjal
 
 # THANKS
 
